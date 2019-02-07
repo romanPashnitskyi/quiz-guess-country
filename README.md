@@ -7,6 +7,7 @@ This is a simple quiz about geography countries where you can you that check you
 * html
 * css
 * javascript
+* TypeScript 
 * bootstrap
 * angular
 * firebase
