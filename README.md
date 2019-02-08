@@ -1,6 +1,6 @@
 # Quiz Guess Contry
 
-This is a simple quiz about geography countries where you can you that check your knowledge. This project was developed like test project, it was implemented for improve my skills.
+This is a simple quiz about geography countries where you can you check your knowledge. This project was developed like test project, it was implemented for improve my skills.
 
 ## Tech Stack:
 
